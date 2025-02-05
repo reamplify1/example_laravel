@@ -2,7 +2,9 @@
 
 namespace App\Providers;
 
+
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Pagination\Paginator;
 use Illuminate\Support\ServiceProvider;
 
 
@@ -28,5 +30,7 @@ class AppServiceProvider extends ServiceProvider
         if (env('DB_CONNECTION') === 'sqlite') {
             DB::statement('PRAGMA foreign_keys = ON;');
         }
+
+        // Paginator::useBootstrapFive();
     }
 }
