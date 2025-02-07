@@ -23,8 +23,8 @@
                 <div class="flex h-16 items-center justify-between">
                     <div class="flex items-center">
                         <div class="shrink-0">
-                            <img class="size-8"
-                                src="https://tailwindui.com/plus/img/logos/mark.svg?color=indigo&shade=500"
+                            <img class="size-8 brightness-0 contrast-150"
+                                src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Vanamo_Logo.svg/768px-Vanamo_Logo.svg.png"
                                 alt="Your Company">
                         </div>
                         <div class="hidden md:block">
@@ -58,7 +58,7 @@
                                         <span class="absolute -inset-1.5"></span>
                                         <span class="sr-only">Open user menu</span>
                                         <img class="size-8 rounded-full"
-                                            src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+                                            src="https://yt3.ggpht.com/ytc/AKedOLQga4l9xZrMhYpMUhMJhxJ7bL9BPZe2e2B2HCCQ=s900-c-k-c0x00ffffff-no-rj"
                                             alt="">
                                     </button>
                                 </div>
