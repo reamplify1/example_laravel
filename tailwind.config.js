@@ -11,6 +11,9 @@ export default {
     ],
     theme: {
         extend: {
+            colors: {
+                'reamplify': 'rgb(50,138,141)'
+            },
             fontFamily: {
                 sans: ['Figtree', ...defaultTheme.fontFamily.sans],
             },
